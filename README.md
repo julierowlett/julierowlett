@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a math professor working in Sweden at Chalmers University of Technology.  My research interestes include geometric, functional, and microlocal analysis; differential geometry; complex analysis and geometry; spectral theory; mathematical physics; dynamical systems; game theory; and interdisciplinary collaboration.  I'm also always learning new things, for example some of my research crosses over into analytic number theory, representation theory, and even combinatorics!  I'm also interested in utilization of research and collaboration.  
+
+Math education - and education in general - is also one of my passions!  Math for everybody!  I do my best to contribute to Chalmers University engineering math program and to Chalmers education in general.  You can check out my book, Blast Into Math, that is available from Bookboon, for free!  
 <!--
 **julierowlett/julierowlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
